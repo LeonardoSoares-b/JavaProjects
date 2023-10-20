@@ -1,0 +1,1 @@
+O tratamento de exceções é eficaz para lidar com falhas em construtores, pois separa a detecção de erros do tratamento, simplificando a manutenção, melhorando o controle de fluxo e aumentando a robustez do programa. Ele também centraliza o tratamento de erros, fornece detalhes sobre problemas, oferece flexibilidade e contribui para a confiabilidade geral do programa.

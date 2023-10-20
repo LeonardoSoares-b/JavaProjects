@@ -1,0 +1,9 @@
+1. Divisão por Zero:
+    usar um bloco try catch para encontrar a exceção de divisão por zero e retornar uma mensagem de erro ao usuário.
+
+2. Operações de Entrada/Saída com erro:
+   usar um bloco try catch, para encontrar exceções relacionadas a operações de entrada/saída (por ex a classe `IOException`)
+
+3. Índice de Array Fora dos Limites:
+   usar um bloco try catch para encontrar a exceção de índice fora dos limites e retornar uma mensagem de erro ao usuário.
+   
